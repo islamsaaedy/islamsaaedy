@@ -8,7 +8,20 @@
 
 ###
 
-<h1 align="left">Technical Skills</h1>
+  <p align="center">
+    <a href="https://www.google.com.eg/search?q=Ahmed+Hemeda"> <!-- Google Me -->
+      <img src="https://readme-typing-svg.herokuapp.com/?lines=Follow%20to%20get%20New%20Updates;Check%20my%20Popular%20Repositories&font=Bold%20Code&center=true&color=30F050&pause=2000"></a>
+  </p>
+    <p>
+    <a href="https://www.google.com.eg/search?q=A-Hemeda"> <!-- Google Me -->
+      <img src="https://komarev.com/ghpvc/?username=a-hemeda&style=flat&color=3010A0" style="height:26px; object-fit:contain;"/></a>
+  </p>
+    <p>
+    <a href="https://drive.google.com/file/d/16nSqZtLhiFQV2oOrGlyL79LJUycCtBIg/view?usp=sharing">
+      <img src="https://img.shields.io/badge/My CV-004520?style=flat-square&logo=googledrive&logoColor=white" style="height:32px; object-fit:contain;"/></a> &nbsp;
+  </p>
+
+#### `🛠️ Top Technical Skills`
 
 ###
 
