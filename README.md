@@ -1,4 +1,7 @@
 <br clear="both">
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+</div>
 
 <h1 align="center">Hi, I'm Eslam Saeed</h1>
 
@@ -20,6 +23,8 @@
     <a href="https://drive.google.com/file/d/16nSqZtLhiFQV2oOrGlyL79LJUycCtBIg/view?usp=sharing">
       <img src="https://img.shields.io/badge/My CV-004520?style=flat-square&logo=googledrive&logoColor=white" style="height:32px; object-fit:contain;"/></a> &nbsp;
   </p>
+
+  
 
 #### `🛠️ Top Technical Skills`
 
